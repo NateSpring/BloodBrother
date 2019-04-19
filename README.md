@@ -1,2 +1,2 @@
 # BloodBrother
-This is a food recommendation app for Diabetics. It takes a users blood glucose input and outputs relevant foods and drinks with carb counts acceptable for the current glucose level.
+This is a food and recommendation app for Diabetics. It takes a users blood glucose input and outputs relevant foods and drinks with carb counts acceptable for the current glucose level. This information is pulled from a USDA API, sorts the JSON data based on its carb values and returns information in an easy to read list format. On this project I learned a lot on making API calls and how to filter through the levels of indexes to the desired information.
